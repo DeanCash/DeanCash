@@ -5,6 +5,9 @@ I am from the Netherlands, and I'm currently studying Software Development at [C
 ## :hammer_and_wrench: Languages and Tools I know :
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,php,html,css"/>
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deans2005/">
