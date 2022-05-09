@@ -2,5 +2,7 @@
 ### And I'm a programmer!... obviously
 
 #### Languages that I know:
-* [x] **Python**
 * [x] **C++**
+* [x] **C#**
+* [x] **Python**
+* [x] **HTML & CSS**
