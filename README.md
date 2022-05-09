@@ -5,10 +5,17 @@
 * [x] **C++**
 * [x] **C#**
 * [x] **Python**
+* [x] **PHP**
 * [x] **HTML & CSS**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=python"/>
+     <img src="https://skillicons.dev/icons?i=cpp,cs,python,php,html,css"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DeanCash">
+     <img src="https://skillicons.dev/icons?i=cpp,cs,python,php,html,css"/>
   </a>
 </p>
