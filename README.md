@@ -1,2 +1,2 @@
 # My name is ean! 👋
-## And I'm a programmer... obviously
+### And I'm a programmer... obviously
