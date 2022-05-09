@@ -17,15 +17,12 @@ I am from the Netherlands, and I'm currently studying Software Development at [C
   <a href="https://www.instagram.com/deanocasho/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/DeanCash">
-    <img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" alt="GitHub Page"/>
-  </a>
   <a href="https://discordapp.com/users/523990741543026689">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/DeanCash">
-     <img src="https://img.shields.io/github/followers/DeanCash?color=1C97C7&label=DeanCash&style=social"/>
+     <img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465"/>
   </a>
 </p>
