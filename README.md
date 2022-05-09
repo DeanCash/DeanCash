@@ -16,6 +16,6 @@
 
 <p align="center">
   <a href="https://github.com/DeanCash">
-     <img src="https://skillicons.dev/icons?i=cpp,cs,python,php,html,css"/>
+     <img src="https://img.shields.io/github/followers/DeanCash?color=1C97C7&label=DeanCash&style=social"/>
   </a>
 </p>
