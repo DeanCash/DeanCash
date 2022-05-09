@@ -6,3 +6,9 @@
 * [x] **C#**
 * [x] **Python**
 * [x] **HTML & CSS**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=python"/>
+  </a>
+</p>
