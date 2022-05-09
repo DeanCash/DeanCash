@@ -8,7 +8,7 @@
 * [x] **PHP**
 * [x] **HTML & CSS**
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=cpp,cs,python,php,html,css"/>
   </a>
