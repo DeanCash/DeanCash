@@ -3,7 +3,7 @@
 I am from the Netherlands, and I'm currently studying Software Development at [Curio](https://www.curio.nl/locaties/knipplein-11/).
 
 ## :hammer_and_wrench: Languages and Tools I know :
-<img src="https://skillicons.dev/icons?i=rust,cpp,cs,python,php,html,css"/>
+<img src="https://skillicons.dev/icons?i=rust,cs,python,php,html,css"/>
 
 
 <div id="header" align="center">
