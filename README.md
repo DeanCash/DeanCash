@@ -14,9 +14,9 @@ I am from the Netherlands, and I'm currently studying Software Development at [C
   <a href="https://www.linkedin.com/in/deans2005/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/deanocasho/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  [//]: # <a href="https://www.instagram.com/deanocasho/">
+  [//]: #   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+  [//]: # </a>
   <a href="https://discordapp.com/users/523990741543026689">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
   </a>
