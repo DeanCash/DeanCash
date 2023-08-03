@@ -1,6 +1,6 @@
 # Hi, my name is Dean! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="GitHub Page" style="width:50px;"/>
 ### And I'm a programmer!... obviously
-I am from the Netherlands, and I'm currently studying Software Development at [Curio](https://www.curio.nl/locaties/knipplein-11/).
+I am from the Netherlands, and I'm currently studying Software Development.
 
 ## :hammer_and_wrench: Languages and Tools I know :
 <img src="https://skillicons.dev/icons?i=rust,cs,python,java,php,html,css"/>
