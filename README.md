@@ -3,7 +3,7 @@
 I am from the Netherlands, and I'm currently studying Software Development.
 
 ## :hammer_and_wrench: Languages and Tools I know :
-<img src="https://skillicons.dev/icons?i=rust,cs,python,java,php,html,css"/>
+<img src="https://skillicons.dev/icons?i=rust,go,cs,python,java,php,html,css"/>
 
 
 <div id="header" align="center">
